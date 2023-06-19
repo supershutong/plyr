@@ -1,4 +1,15 @@
-<svg width="18px" height="18px" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
-    <path d="M6,1 L3,1 C2.4,1 2,1.4 2,2 L2,16 C2,16.6 2.4,17 3,17 L6,17 C6.6,17 7,16.6 7,16 L7,2 C7,1.4 6.6,1 6,1 L6,1 Z"></path>
-    <path d="M12,1 C11.4,1 11,1.4 11,2 L11,16 C11,16.6 11.4,17 12,17 L15,17 C15.6,17 16,16.6 16,16 L16,2 C16,1.4 15.6,1 15,1 L12,1 Z"></path>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>plyr-pause</title>
+    <g id="0430需求" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1、视频播放器" transform="translate(-439.000000, -791.000000)">
+            <g id="plyr-pause" transform="translate(439.000000, 791.000000)">
+                <rect id="矩形备份-8" fill-opacity="0" fill="#D8D8D8" x="0" y="0" width="18" height="18"></rect>
+                <g id="编组-9">
+                    <rect id="矩形" stroke="#979797" fill="#D8D8D8" opacity="0" x="0.5" y="0.5" width="17" height="17"></rect>
+                    <path d="M13.0668437,7.48223866 C14.3113888,8.32046607 14.3107154,9.6799548 13.0668437,10.5177287 L6.25344811,15.1066948 C5.00890309,15.9449223 4,15.3991245 4,13.8894392 L4,4.11052814 C4,2.60002898 5.0095765,2.0554986 6.25344811,2.89327246 L13.0668437,7.48223866 L13.0668437,7.48223866 Z" id="路径" fill="#FFFFFF" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
 </svg>
